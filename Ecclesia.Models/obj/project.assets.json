@@ -6940,11 +6940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Models\\Ecclesia.Models.csproj",
       "projectName": "Ecclesia.Models",
-      "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\Ecclesia.Models.csproj",
+      "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Models\\Ecclesia.Models.csproj",
       "packagesPath": "C:\\Users\\Jorda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Models\\obj\\",
+      "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {}
+    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {
+    "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Utility\\Ecclesia.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
         "projectName": "Ecclesia.Utility",
-        "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
+        "projectPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Utility\\Ecclesia.Utility.csproj",
         "packagesPath": "C:\\Users\\Jorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\Ecclesia\\Ecclesia.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Jorda\\OneDrive\\Documents\\GitHub\\EcclesliaArt.co.za\\Ecclesia.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
